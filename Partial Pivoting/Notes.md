@@ -18,3 +18,21 @@ $$
 5.0 
 \end{bmatrix}
 $$
+
+We can see that for the 1st column 2.0 is the biggest.
+
+Swap R3 <-> R1
+
+
+$$
+\begin{bmatrix}
+2.0&1.0&1.0\\
+1.0&1.0&2.0\\
+0.002&1.0&1.0
+\end{bmatrix}
+\begin{bmatrix}
+5.0\\
+4.0\\
+2.0
+\end{bmatrix}
+$$
