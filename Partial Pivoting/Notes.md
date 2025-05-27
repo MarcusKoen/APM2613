@@ -11,5 +11,6 @@ $$
 0.002&1.0&1.0\\
 1.0&1.0&2.0\\
 2.0&1.0&1.0
-\end{bmatrix}
+\end{bmatrix} \begin{bmatrix}
+2.0\\4.0\\5.0 \end{bmatrix}
 $$
