@@ -1,3 +1,3 @@
-\begin{bmatrix}
-0\\2\\1
-\end{bmatrix}
+$$ 
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$
